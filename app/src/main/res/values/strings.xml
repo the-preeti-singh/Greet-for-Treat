@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="edit_text">Enter a Greet,here.</string>
+    <string name="edit_text2">Your name here</string>
+</resources>
